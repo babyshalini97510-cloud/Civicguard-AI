@@ -1,0 +1,37 @@
+{
+  "name": "Coimbatore",
+  "panchayats": [
+    { "name": "Coimbatore", "villages": ["Coimbatore"] },
+    {
+      "name": "Mettupalayam",
+      "villages": [
+        "Mettupalayam", "Chinnakallipatti", "Muduthurai", "Irumborai", "Illuppanatham", "Bellapalayam", "Jadayampalayam", "Chickadasampalayam", "Odanthurai", "Nellithurai", "Thekkampatti", "Tholampalayam", "Velliangadu", "Kemmarampalayam", "Kalampalayam", "Marudur", "Belladhi", "Chikkarampalayam", "Jaganarai Slopes R.F.", "Odanthurai R.F.", "Madur Pethikuttai Forest", "Kallar R.F.", "Hulical Drug R.F.", "NellimalaiR.F.", "Kandiyur R.F.", "Pillur Slope R.F.", "Nellithurai and Sundapatti R.F", "Melur Slope R.F.", "Nilgiri Eastern Slope R.F.", "Gopanari R.F.", "Anaikatti North R.F."
+      ]
+    },
+    {
+      "name": "Sulur",
+      "villages": [
+        "Sulur", "Paduvampalli", "Kaduvettipalayam", "Kittampalayam", "Semmandampalayam", "Mylampatti", "Rasipalayam", "Kadampadi", "Kangayampalayam", "Appanaickenpatti", "Kalangal", "Peedampalli", "Kallapalayam", "Pappampatti", "Edayapalayam", "Sellakkarichal", "Vadambacheri", "Varapatti", "Vadavalli", "Bogampatti", "Pachapalayam", "Poorandampalayam", "Kumarapalayam", "Vadavedampatti", "Kammalapatti", "Jallipatti", "Senjeriputhur", "Senjeri Ayyampalayam", "Malaipalayam", "Thalakkarai", "J.Krishnapuram", "Kaniyur (CT)", "Arasur (CT)", "K.Madapur (CT)", "Muthugoundam Pudur (CT)", "Neelambur (CT)", "Chinniam palayam (CT)", "Pattanam (CT)"
+      ]
+    },
+    {
+      "name": "Coimbatore North",
+      "villages": [
+        "Coimbatore North", "Akkaraisengapalli", "Kanuvakkarai", "Ambodi", "Allapalayam", "Pasur", "Annur Mettupalayam", "Vadakkalur", "Odderpalayam", "Kuppanur", "Pogalur", "Vadavalli", "Karegoundenpalayam", "Kanjappali", "Pillaiappampalayam", "Kariampalayam", "Kuppepalayam", "Kattampatti", "Kunnathur", "Masagoundenchettipalayam", "Pachapalayam", "Naranapuram", "Bilichi", "Vellamadai", "Kondayampalayam", "Agraharasamakulam", "Naickenpalayam", "Veerapandi", "Nanjundapuram", "Pannimadai", "Keeranatham", "Kallipalayam", "Vellanaipatti", "Thadagam R.F.", "Anaikatti (North)", "Anaikatti (South)", "Kurudampalayam (CT)", "Ashokapuram (CT)", "Chinnathadagam (CT)", "Vilankurichi (CT)", "Somayampalayam (CT)"
+      ]
+    },
+    {
+      "name": "Coimbatore South",
+      "villages": [
+        "Coimbatore South", "Thennammanallur", "Devarayapuram", "Jagirnaickenpalyam", "Vellaimalaipattinam", "Narasipuram", "Madavarayapuram", "Ikkaraibooluvampatti", "Madampatti", "Theethipalayam", "Mavuthampathi", "Pichanur", "Palathurai", "Thambagoundenpalayam", "Karunchamigoundenpalayam", "Seerappalayam", "Myleripalayam", "Nachippalayam", "Arisippalayam", "Valukkupparai", "Boluvampatti (Block I)", "Booluvampatti(BlockII)", "Ettimadai (R.F)", "Ettimadai Exten. R.F.", "Boluvampatti(R.F)", "Boluvampatti Exten. R.F.", "Solakarai R.F.", "Perur Chettipalayam (CT)", "Malumichampatti (CT)"
+      ]
+    },
+    {
+      "name": "Pollachi",
+      "villages": [
+        "Pollachi", "Arasampalayam", "Panappatti", "Mettubavi", "Vadasithur", "Kondampatty", "Solavampalayam", "Vadaputhur", "Kuthiraialampalayam", "Pottaiyandiporambu", "Sokkanur", "Sangarayapuram", "Muthur", "Kodangipalayam", "Kothavadi", "Kurunallipalayam", "Periakalandai", "Kattampatti", "Andipalayam", "Chettiakkapalayam", "Nallattipalayam", "Devarayapuram", "Govindapuram", "Sulakkal", "Poravipalayam", "Servakaranpalayam", "Vadakkipalayam", "Mettupalayam (Part)", "Mullipadi", "Kaniyalampalayam", "Devanampalayam", "Kappalankarai", "Sirukkalandai", "Chandrapuram", "Sinna Negamam", "Vaguthampalayam", "Kakkadavu", "Sholanur", "Santhegoundanpalayam", "Kullichettipalayam", "Poosanaickendhali", "Devambadi", "Ramapatinam", "Thalakkarai", "Chikkarayapuram", "Kabilipalayam", "Okkilipalayam", "Kurumbapalayam", "Kulakkalpalayam", "Krishnarayapuram", "Varadanur", "Kallipatti", "Kondegoundenpalayam", "Mulanur", "Avaleppampatti", "Vellalapalayam", "Thoppampatti", "Rasakkapalayam", "Puliampatti", "R. Ponnapuram", "Kittasuarampalayam", "Anupparpalayam", "Gollapatti", "A. Nagoor", "Poosaripatti", "Boligoundenpalayam", "Eripatti", "Unjavelampatti", "Z. Muthur", "Ayyampalayam", "Nallathukuli", "Kumarapalayam", "Manur", "Thimmanguthu", "Rasichettipalayam", "Bodipalayam", "Solapalayam", "Thippampatti", "Nallampalli", "Seelakkampatti", "Gomangalam", "S. Malayandipatnam", "Kolarpatti", "Kanjampatti", "Nathukkalpalayam", "Z. Kottampatti", "Naickenpalayam", "Ambarampalayam", "Kulathur", "Servaikaranpalayam", "Athupollachi", "Marchinaickenpalayam", "Singanallur", "Vekkampalayam", "Pethanaickanur", "S. Ponnapuram", "Palayur", "Thenkumarapalayam", "Koolanaickenpatti", "Gomangalampudur", "Sinjuvadi", "S. Nallur", "Veeralpatti", "Dhalavaipalayam", "Thondamuthur", "Pillchinnampalayam", "Somandurai", "Thensithur", "Periapodu", "Kaliyapuram", "Thensangampalayam", "Kariyanchettipalayam", "Kambalapatti", "Arthanaripalayam", "Jallipatti", "Thorayur", "Angalakurichi", "Koil palayam (CT)", "Achipatti (CT)", "Chinnampalayam (CT)", "Makkinampatti (CT)"
+      ]
+    },
+    { "name": "Valparai", "villages": ["Valparai"] }
+  ]
+}

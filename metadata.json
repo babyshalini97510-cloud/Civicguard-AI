@@ -1,0 +1,8 @@
+{
+  "name": "CivicGuard AI",
+  "description": "An inclusive, AI-powered civic accountability ecosystem. Citizens can report local issues, which are then tracked, validated by the community, and resolved by officials in a transparent and gamified process.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Tiruppur",
+  "panchayats": [
+    {
+      "name": "Tiruppur",
+      "villages": ["Tiruppur", "Andipalayam", "Chettipalayam", "Iduvampalayam", "Karaipudur", "Mangalam", "Muthunagar", "Neripperichal", "Perumanallur", "Sarkar Periyapalayam", "Thottipalayam", "Veerapandi"]
+    },
+    {
+      "name": "Avinashi",
+      "villages": ["Avinashi", "Anaipudur", "Cheyur", "Kunnathur", "Nambiyampalayam", "Pazhankarai", "Pudupalayam", "Rakkianpalayam", "Sembianallur", "Thennampalayam", "Thirumuruganpoondi", "Vadugapalayam"]
+    },
+    {
+      "name": "Palladam",
+      "villages": ["Palladam", "Alagumalai", "Arumuthampalayam", "Chittampalam", "Ganapathipalayam", "Ichipatti", "Karanampettai", "Kethanur", "Panikkampatti", "Paruvai", "Semmipalayam", "Sultanpet"]
+    },
+    {
+      "name": "Udumalaipettai",
+      "villages": ["Udumalaipettai", "Amaravathi", "Chinnaveerampatti", "Devarayapuram", "Erisinampatti", "Gudimangalam", "Jallipatti", "Komaralingam", "Kurichikottai", "Madathukulam", "Poolavadi", "R.Velur"]
+    },
+    {
+      "name": "Dharapuram",
+      "villages": ["Dharapuram", "Alangiyam", "Chinnaputhur", "Dalavaipattinam", "Elayamuthur", "Kallivalasu", "Kolathupalayam", "Kundadam", "Mulanur", "Ponnapuram", "Rudravathi", "Sivanthipuram"]
+    },
+    {
+      "name": "Kangeyam",
+      "villages": ["Kangeyam", "Alampalayam", "Kadayur", "Kavandapadi", "Marudur", "Muthur", "Nathakadaiyur", "Padiyur", "Sivanmalai", "Uthiyur", "Veeranampalayam", "Vellakoil"]
+    },
+    {
+      "name": "Madathukulam",
+      "villages": ["Madathukulam", "Amandakadavu", "Bodipatti", "Jothampatti", "Kaniyur", "Kondampatti", "Myvadi", "Pappankulam", "Sankaramanallur", "Thungavi", "Udukkampalayam", "Vedapatti"]
+    }
+  ]
+}
